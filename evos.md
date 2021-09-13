@@ -142,6 +142,7 @@
 
 ### **Erupt:**
 
+![Erupt](https://cdn.discordapp.com/attachments/175409835557257216/886874306703937596/Erupt.gif)
 
 <div style="font-size:120%;">
   <p><span style="color:rgb(255,255,180);">Roar and spit 5 puddles around you that infect humans when touched.</span></p>
@@ -164,7 +165,7 @@
 ![Claw](https://cdn.discordapp.com/attachments/175409835557257216/886857235605639278/Claw.gif)
 
 <div style="font-size:120%;">
-  <p><span style="color:rgb(255,255,180);">Slash your claws and do medium damage (stuns and knocksback).</span></p>
+  <p><span style="color:rgb(255,255,180);">Slash your claws and do medium damage, flinging the human a bit (stuns).</span></p>
 </div>
 
 <div style="font-size:120%;">
