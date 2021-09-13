@@ -109,7 +109,7 @@
 
 - Blueberry
   
-- Hatory
+- Hatori
 
 - Zarpy
 
