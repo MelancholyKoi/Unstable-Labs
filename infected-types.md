@@ -26,6 +26,8 @@
 
 <img src="./images/Bee.png" width=50%>
 
+![bee](images/Bee.png)
+
 ```
 Damage: 1.35
 ```
