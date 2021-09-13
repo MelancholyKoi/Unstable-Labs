@@ -24,7 +24,9 @@
 
 ### Bee:
 
-<img src="../images/Bee.png" width=50%>
+<img src="../Unstable-Labs/images/Bee.png" width=20%>
+
+![Bee](images/Bee.png)
 
 ```
 Damage: 1.35
