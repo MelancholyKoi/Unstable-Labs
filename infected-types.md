@@ -11,9 +11,10 @@
     - [Fox Infected:](#fox-infected)
     - [Hedgehog Infected:](#hedgehog-infected)
     - [Moth Infected:](#moth-infected)
+    - [Protogen Infected:](#protogen-infected)
     - [Rat Infected:](#rat-infected)
-    - [Sheep Infected:](#sheep-infected)
     - [Shark Infected:](#shark-infected)
+    - [Sheep Infected:](#sheep-infected)
     - [Squirrel Infected:](#squirrel-infected)
     - [Wolf Infected:](#wolf-infected)
     - [Wyvern Infected:](#wyvern-infected)
@@ -74,27 +75,188 @@
 
 ### Deer Infected:
 
+<img src="https://i.imgur.com/r5xYT3a.png" width="65%" height="70%">
+
+---
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,0,0);">Damage:</span> 1</p>
+  <p><span style="color:rgb(0,255,0);">Health:</span> 0.95 </p>
+  <p><span style="color:rgb(255,255,0);">Jump:</span> 1 </p> 
+  <p><span style="color:rgb(0,255,255);">Speed:</span> 1.08 </p>
+</div>
+
+---
+
 ### Dragon Infected:
+
+<img src="https://i.imgur.com/lNFaAVL.png" width="65%" height="70%">
+
+---
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,0,0);">Damage:</span> 1</p>
+  <p><span style="color:rgb(0,255,0);">Health:</span> 1.25 </p>
+  <p><span style="color:rgb(255,255,0);">Jump:</span> 1.5 </p> 
+  <p><span style="color:rgb(0,255,255);">Speed:</span> 1 </p>
+</div>
+
+---
 
 ### Fox Infected:
 
+
+<img src="https://i.imgur.com/9RM1Oc9.png" width="65%" height="70%">
+
+---
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,0,0);">Damage:</span> 1</p>
+  <p><span style="color:rgb(0,255,0);">Health:</span> 1.5 </p>
+  <p><span style="color:rgb(255,255,0);">Jump:</span> 1 </p> 
+  <p><span style="color:rgb(0,255,255);">Speed:</span> 0.95 </p>
+</div>
+
+---
+
 ### Hedgehog Infected:
+
+<img src="https://i.imgur.com/qc75poP.png" width="65%" height="70%">
+
+---
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,0,0);">Damage:</span> 1.3</p>
+  <p><span style="color:rgb(0,255,0);">Health:</span> 1 </p>
+  <p><span style="color:rgb(255,255,0);">Jump:</span> 0.8 </p> 
+  <p><span style="color:rgb(0,255,255);">Speed:</span> 1.2 </p>
+</div>
+
+---
 
 ### Moth Infected:
 
+<img src="https://i.imgur.com/RA1XpYJ.png" width="65%" height="70%">
+
+<font size="4"><strong>This is one of the infected types that can glide!</strong></font>
+
+---
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,0,0);">Damage:</span> 0.85</p>
+  <p><span style="color:rgb(0,255,0);">Health:</span> 1.35 </p>
+  <p><span style="color:rgb(0,255,255);">Speed:</span> 1.025</p>
+</div>
+
+---
+
+### Protogen Infected:
+
+<img src="https://i.imgur.com/ruYBaME.png" width="65%" height="70%">
+
+---
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,0,0);">Damage:</span> 1</p>
+  <p><span style="color:rgb(0,255,0);">Health:</span> 2.5 </p>
+  <p><span style="color:rgb(255,255,0);">Jump:</span> 0.85 </p> 
+  <p><span style="color:rgb(0,255,255);">Speed:</span> 0.75 </p>
+</div>
+
+---
+
 ### Rat Infected:
 
-### Sheep Infected:
+<img src="https://i.imgur.com/JdbvACp.png" width="65%" height="70%">
+
+---
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,0,0);">Damage:</span> 2</p>
+  <p><span style="color:rgb(0,255,0);">Health:</span> 0.55 </p>
+  <p><span style="color:rgb(255,255,0);">Jump:</span> 1 </p> 
+  <p><span style="color:rgb(0,255,255);">Speed:</span> 1.2 </p>
+</div>
+
+---
+
 
 ### Shark Infected:
 
+<img src="https://i.imgur.com/ARAjhpu.png" width="65%" height="70%">
+
+---
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,0,0);">Damage:</span> 1.2</p>
+  <p><span style="color:rgb(0,255,0);">Health:</span> 0.95 </p>
+  <p><span style="color:rgb(255,255,0);">Jump:</span> 0.8 </p> 
+  <p><span style="color:rgb(0,255,255);">Speed:</span> 1.25 </p>
+</div>
+
+---
+
+### Sheep Infected:
+
+<img src="https://i.imgur.com/s60ieY4.png" width="65%" height="70%">
+
+---
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,0,0);">Damage:</span> 1</p>
+  <p><span style="color:rgb(0,255,0);">Health:</span> 1 </p>
+  <p><span style="color:rgb(255,255,0);">Jump:</span> 1 </p> 
+  <p><span style="color:rgb(0,255,255);">Speed:</span> 1 </p>
+</div>
+
+---
+
 ### Squirrel Infected:
+
+<img src="" width="65%" height="70%">
+
+---
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,0,0);">Damage:</span> 0.95</p>
+  <p><span style="color:rgb(0,255,0);">Health:</span> 1.1 </p>
+  <p><span style="color:rgb(255,255,0);">Jump:</span> 1 </p> 
+  <p><span style="color:rgb(0,255,255);">Speed:</span> 1.05 </p>
+</div>
+
+---
 
 ### Wolf Infected:
 
+<img src="" width="65%" height="70%">
+
+---
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,0,0);">Damage:</span> 1.5</p>
+  <p><span style="color:rgb(0,255,0);">Health:</span> 2 </p>
+  <p><span style="color:rgb(255,255,0);">Jump:</span> 0.8 </p> 
+  <p><span style="color:rgb(0,255,255);">Speed:</span> 0.95 </p>
+</div>
+
+---
+
 ### Wyvern Infected:
 
+<img src="" width="65%" height="70%">
+
+---
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,0,0);">Damage:</span> 1.2</p>
+  <p><span style="color:rgb(0,255,0);">Health:</span> 1.1 </p>
+  <p><span style="color:rgb(255,255,0);">Jump:</span> 1 </p> 
+  <p><span style="color:rgb(0,255,255);">Speed:</span> 1.01 </p>
+</div>
+
+---
+
 ### Void Infected:
+
+<img src="" width="65%" height="70%">
+
+---
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,0,0);">Damage:</span> 1.3</p>
+  <p><span style="color:rgb(0,255,0);">Health:</span> 1 </p>
+  <p><span style="color:rgb(255,255,0);">Jump:</span> 1 </p> 
+  <p><span style="color:rgb(0,255,255);">Speed:</span> 1.08 </p>
+</div>
+
+
 
 &nbsp;
 
@@ -105,3 +267,5 @@
 ---
 
 <font size="5">To get back to the main page click <a href="../Unstable-Labs">this!</a></font>
+
+---
