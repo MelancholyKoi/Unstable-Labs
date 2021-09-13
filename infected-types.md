@@ -42,7 +42,7 @@
 
 ---
 
-<img src="https://i.imgur.com/LrofAba.png" align="left" width="30%">
+<img src="https://i.imgur.com/LrofAba.png" align="left" width="40%">
 
 ### Bat Infected:
 
@@ -63,7 +63,7 @@
 &nbsp;
 
 ---
-<img src="https://i.imgur.com/W5raT0J.png" align="left" width="30%">
+<img src="https://i.imgur.com/W5raT0J.png" align="left" width="40%">
 
 ### Bee Infected:
 
@@ -85,7 +85,7 @@
 &nbsp;
 
 ---
-<img src="https://i.imgur.com/rfiS3lr.png" align="left" width="30%">
+<img src="https://i.imgur.com/rfiS3lr.png" align="left" width="40%">
 
 ### Cat Infected:
 
@@ -106,7 +106,7 @@
 &nbsp;
 
 ---
-<img src="https://i.imgur.com/r5xYT3a.png" align="left" width="30%">
+<img src="https://i.imgur.com/r5xYT3a.png" align="left" width="40%">
 
 ### Deer Infected:
 
@@ -127,7 +127,7 @@
 &nbsp;
 
 ---
-<img src="https://i.imgur.com/lNFaAVL.png" align="left" width="30%">
+<img src="https://i.imgur.com/lNFaAVL.png" align="left" width="40%">
 
 ### Dragon Infected:
 
@@ -148,7 +148,7 @@
 &nbsp;
 
 ---
-<img src="https://i.imgur.com/9RM1Oc9.png" align="left" width="30%">
+<img src="https://i.imgur.com/9RM1Oc9.png" align="left" width="40%">
 
 ### Fox Infected:
 
@@ -169,7 +169,7 @@
 &nbsp;
 
 ---
-<img src="https://i.imgur.com/qc75poP.png" align="left" width="30%">
+<img src="https://i.imgur.com/qc75poP.png" align="left" width="40%">
 
 ### Hedgehog Infected:
 
@@ -190,7 +190,7 @@
 &nbsp;
 
 ---
-<img src="https://i.imgur.com/RA1XpYJ.png" align="left" width="30%">
+<img src="https://i.imgur.com/RA1XpYJ.png" align="left" width="40%">
 
 ### Moth Infected:
 
@@ -212,7 +212,7 @@
 &nbsp;
 
 ---
-<img src="https://i.imgur.com/ruYBaME.png" align="left" width="30%">
+<img src="https://i.imgur.com/ruYBaME.png" align="left" width="40%">
 
 ### Protogen Infected:
 
@@ -233,7 +233,7 @@
 &nbsp;
 
 ---
-<img src="https://i.imgur.com/JdbvACp.png" align="left" width="30%">
+<img src="https://i.imgur.com/JdbvACp.png" align="left" width="40%">
 
 ### Rat Infected:
 
@@ -255,7 +255,7 @@
 
 ---
 
-<img src="https://i.imgur.com/ARAjhpu.png" align="left" width="30%">
+<img src="https://i.imgur.com/ARAjhpu.png" align="left" width="40%">
 
 ### Shark Infected:
 
@@ -276,7 +276,7 @@
 &nbsp;
 
 ---
-<img src="https://i.imgur.com/s60ieY4.png" align="left" width="30%">
+<img src="https://i.imgur.com/s60ieY4.png" align="left" width="40%">
 
 ### Sheep Infected:
 
@@ -297,7 +297,7 @@
 &nbsp;
 
 ---
-<img src="https://i.imgur.com/qs5IpoH.png" align="left" width="30%">
+<img src="https://i.imgur.com/qs5IpoH.png" align="left" width="40%">
 
 ### Squirrel Infected:
 
@@ -318,7 +318,7 @@
 &nbsp;
 
 ---
-<img src="https://i.imgur.com/5gDVh5l.png" align="left" width="30%">
+<img src="https://i.imgur.com/5gDVh5l.png" align="left" width="40%">
 
 ### Void Infected:
 
@@ -339,7 +339,7 @@
 &nbsp;
 
 ---
-<img src="https://i.imgur.com/NWinaTN.png" align="left" width="30%">
+<img src="https://i.imgur.com/NWinaTN.png" align="left" width="40%">
 
 ### Wolf Infected:
 
@@ -360,7 +360,7 @@
 &nbsp;
 
 ---
-<img src="https://i.imgur.com/moxs8cJ.png" align="left" width="30%">
+<img src="https://i.imgur.com/moxs8cJ.png" align="left" width="40%">
 
 ### Wyvern Infected:
 
