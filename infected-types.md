@@ -24,7 +24,7 @@
 
 ### Bee:
 
-<img src="/Unstable-Labs/images/Bee.png" width=20%>
+<img src="/images/Bee.png" width=20%>
 
 ![Bee](images/Bee.png)
 
