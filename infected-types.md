@@ -24,6 +24,8 @@
 
 ### Bee:
 
+<img src="images/Bee.png" width=50%>
+
 `Linked Customs:`
 
 - Nathan
