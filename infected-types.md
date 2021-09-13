@@ -37,63 +37,27 @@ Jump: 0.25
 Speed: 1
 ```
 
-`Linked Customs:`
-
-- Nathan
-
 ### Cat:
 
 ### Deer:
 
-`Linked Customs:`
-
-- Eri
-- Dreamer
-- Zups
-- Fairy
-
 ### Dragon:
-
-`Linked Customs:`
-
-- Melan
-- Joshua
 
 ### Fox:
 
-`Linked Customs:`
-
-- Squid
-
 ### Hedgehog:
 
-`Linked Customs:`
-
-- Berry
-
 ### Moth:
-
-`Linked Customs:`
-
-- Axie
 
 ### Rat:
 
 ### Sheep:
-
-`Linked Customs:`
-
-- Spino
 
 ### Shark:
 
 ### Squirrel:
 
 ### Wolf:
-
-`Linked Customs:`
-
-- Zeph
 
 ### Wyvern:
 
