@@ -32,7 +32,15 @@
 
 ## **Anger:**
 
-<img src="https://i.imgur.com/k498w78.mp4" width="65%" height="70%">
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,255,180);">Roar in anger and gain a speed and damage boost.</span></p>
+</div>
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,0,0);">Kills Required:</span> 3</p>
+</div>
+
+![anger](https://tenor.com/bIVpf.gif)
 
 ---
 
