@@ -5,8 +5,9 @@
 - **Infected Information**
     - [Infected Types](<infected-types>)
     - [Evolutions](<evos>)
-     - [Shop Locations](<i-shop>)
+     - [Shop Location](<i-shop>)
 - **Human Information:**
     - [Shop Locations](<h-shops>)
     - [Ranged Weapons](<ranged>)
     - [Melee Weapons](<melee>)
+    - [Mystery Box](<mystery>)
