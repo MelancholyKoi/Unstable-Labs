@@ -30,12 +30,15 @@
 
 <font size="4"><strong>The Bee's jump is low because it glides and does not jump.</strong></font>
 
-```
-Damage: 1.35
-Health: 0.85
-Jump: 0.25
-Speed: 1
-```
+---
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,0,0);">Damage:</span> 1.35</p>
+  <p><span style="color:rgb(0,255,0);">Health:</span> 0.85 </p>
+  <p><span style="color:rgb(255,255,0);">Jump:</span> 0.25 </p> 
+  <p><span style="color:rgb(0,255,255);">Speed:</span> 1 </p>
+</div>
+
+---
 
 ### Cat:
 
