@@ -1,10 +1,10 @@
-# Evolutions:
+# **Evolutions:**
 
-- [Evolutions:](#evolutions)
-  - [Pounce:](#pounce)
-  - [Spit:](#spit)
-  - [Anger:](#anger)
-  - [Leap](#leap)
+- [**Evolutions:**](#evolutions)
+  - [**Pounce:**](#pounce)
+  - [**Spit:**](#spit)
+  - [**Anger:**](#anger)
+  - [**Leap:**](#leap)
 
 ---
 
@@ -12,10 +12,10 @@
 
 ---
 
-## Pounce:
+## **Pounce:**
 
 <div style="font-size:120%;">
-  <p><span style="color:rgb(255,255,180);">Leap in-front of you and grab any human within range</span></p>
+  <p><span style="color:rgb(255,255,180);">Pounce in-front of you and grab any human within range.</span></p>
 </div>
 
 <div style="font-size:120%;">
@@ -24,11 +24,30 @@
 
 <font size="3">Upgrades into  <a href="https://melancholykoi.github.io/Unstable-Labs/evos#leap">leap</a></font>
 
-## Spit:
+---
 
-## Anger:
+## **Spit:**
 
-## Leap
+---
+
+## **Anger:**
+
+<img src="https://i.imgur.com/k498w78.mp4" width="65%" height="70%">
+
+---
+
+## **Leap:**
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,255,180);">Leap far in-front of you and grab any human within range.</span></p>
+</div>
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,0,0);">Kills Required:</span> 37</p>
+</div>
+
+---
+
 
 &nbsp;
 
