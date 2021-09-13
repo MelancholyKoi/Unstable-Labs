@@ -102,4 +102,4 @@ Damage: 1.35
 
 ---
 
-<font size="5">To get back to the main page click [this](<index>)</font> 
+<font size="5">To get back to the main page click</font> [this](<index>)
