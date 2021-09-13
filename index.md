@@ -8,7 +8,6 @@
 - **Infected Info:**
     - [Infected Types](<infected-types>)
     - [Evolutions](<evos>)
-     - [Shop Location](<i-shop>) [unfinished]
 - **Human Info:**
     - [Ranged Weapons](<ranged>) [unfinished]
     - [Melee Weapons](<melee>) [unfinished]
