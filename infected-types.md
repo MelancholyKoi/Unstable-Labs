@@ -318,7 +318,7 @@
 &nbsp;
 
 ---
-<img src="https://i.imgur.com/5gDVh5l.png" align="left" width="40%">
+<img src="https://i.imgur.com/5gDVh5l.png" align="left" width="50%">
 
 ### Void Infected:
 
@@ -360,7 +360,7 @@
 &nbsp;
 
 ---
-<img src="https://i.imgur.com/moxs8cJ.png" align="left" width="40%">
+<img src="https://i.imgur.com/moxs8cJ.png" align="left" width="50%">
 
 ### Wyvern Infected:
 
