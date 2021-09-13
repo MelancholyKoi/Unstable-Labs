@@ -103,3 +103,5 @@ Damage: 1.35
 ---
 
 <font size="5">To get back to the main page click</font> [this](<index>)
+
+<font size="5">To get back to the main page click <a href="../index">this!</a></font>
