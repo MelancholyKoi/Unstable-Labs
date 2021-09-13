@@ -28,7 +28,7 @@
 
 <img src="images/Bee.png">
 
->The Bee's jump is low because it glides and does not jump.
+<font size="4"><strong>The Bee's jump is low because it glides and does not jump.</strong></font>
 
 ```
 Damage: 1.35
