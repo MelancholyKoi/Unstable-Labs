@@ -92,3 +92,5 @@ Damage: 1.35
 
 ### Void:
 
+
+To get back to the main page click [this](<index>)
