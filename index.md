@@ -3,5 +3,5 @@
 `Here you can learn about anything we put in the game!`
 
 
-- [Infected Information](<infected-info>)
+- Infected Information
     - [Infected Types](<infected-types>)
