@@ -24,7 +24,11 @@
 
 ### Bee:
 
-<img src="images/Bee.png" width=50%>
+<img src="/images/Bee.png" width=50%>
+
+```
+Damage: 1.35
+```s
 
 `Linked Customs:`
 
