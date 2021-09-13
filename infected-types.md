@@ -26,7 +26,7 @@
 
 <img src="/images/Bee.png" width=50% />
 
-<img src="images/bee.png" />
+<img src="images/Bee.png" />
 
 `Linked Customs:`
 
