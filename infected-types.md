@@ -212,7 +212,7 @@
 &nbsp;
 
 ---
-<img src="https://i.imgur.com/ruYBaME.png" align="left" width="40%">
+<img src="https://i.imgur.com/6XFv4pO.png" align="left" width="40%">
 
 ### Protogen Infected:
 
