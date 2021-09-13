@@ -25,43 +25,22 @@
 
 ### Owner:
 
-- <div style="font-size:120%;">
-  <p><span style="color:rgb(255,0,100);">Melan</span> </p>
-</div>
+- Melan
 
 ### Admins:
 
-- <div style="font-size:120%;">
-  <p><span style="color:rgb(0,255,255);">Karma</span> </p>
-</div>
-
-- 
-   <div style="font-size:120%;">
-  <p><span style="color:rgb(0,255,255);">Fairy</span> </p>
-</div>
-
-- 
-   <div style="font-size:120%;">
-  <p><span style="color:rgb(0,255,255);">Zups</span> </p>
-</div>
-
-- <div style="font-size:120%;">
-  <p><span style="color:rgb(0,255,255);">Zeph</span> </p>
-</div>
+- Karma
+- Fairy
+- Zups
+- Zeph
 
 ### Moderators
 
-- <div style="font-size:120%;">
-  <p><span style="color:rgb(0,255,140);">Pixer</span> </p>
-</div>
+- Pixer
 
-- <div style="font-size:120%;">
-  <p><span style="color:rgb(0,255,140);">Takara</span> </p>
-</div>
+- Takara
 
-- <div style="font-size:120%;">
-  <p><span style="color:rgb(0,255,140);">Cookie</span> </p>
-</div>
+- Cookie
 
 ## Dev Team:
 
