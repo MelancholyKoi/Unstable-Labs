@@ -26,12 +26,6 @@
 
 <img src="./images/Bee.png" width=20%>
 
-![Bee](images/Bee.png)
-
-```
-Damage: 1.35
-```
-
 `Linked Customs:`
 
 - Nathan
