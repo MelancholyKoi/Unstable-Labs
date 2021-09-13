@@ -5,3 +5,4 @@
 
 - **Infected Information**
     - [Infected Types](<infected-types>)
+    - [Evolutions](<evos>)

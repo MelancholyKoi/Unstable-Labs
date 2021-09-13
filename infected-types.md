@@ -20,6 +20,12 @@
     - [Wolf Infected:](#wolf-infected)
     - [Wyvern Infected:](#wyvern-infected)
 
+---
+
+<font size="5">To get back to the main page click <a href="../Unstable-Labs">this!</a></font>
+
+---
+
 ## **Information:**
 
 <div style="font-size:120%;">
