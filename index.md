@@ -14,4 +14,4 @@
     - [Mystery Box](<mystery>) [unfinished]
 - **Scrapped Content:** [unfinished]
 - **Comming Soon:** [unfinished]
-- [**Contributors**](<donors>) [semi-finished]
+- [**Contributors**](<donors>)

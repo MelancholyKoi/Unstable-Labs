@@ -127,11 +127,41 @@
 
 ## Contributors:
 
+---
+
 ### Modeler:
+
+<div style="font-size:2;">
+  <p><span style="color:rgb(255,255,180);">They work on weapon models! If you see a good looking weapon, they made it!</span></p>
+</div>
+
+- lolgamer
+
+---
 
 ### Artist:
 
+<div style="font-size:2;">
+  <p><span style="color:rgb(255,255,180);">You see those emotes in the discord, they made them!</span></p>
+</div>
+
+- Dreamer
+
+---
+
 ### Retired:
+
+<div style="font-size:2;">
+  <p><span style="color:rgb(255,255,180);">Although they may not be working on the game anymore, we won't forget the hard work you did!</span></p>
+</div>
+
+- Moh [Developer]
+  
+- Luca [Developer]
+
+- Quinn [Admin]
+
+---
 
 &nbsp;
 
