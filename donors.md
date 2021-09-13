@@ -42,7 +42,7 @@
 ---
 
 <div style="font-size:2;">
-  <p><span style="color:rgb(255,255,180);">They keep the moderator in check and help around in the discord!</span></p>
+  <p><span style="color:rgb(255,255,180);">They make sure the moderators are doing their job and help around in the discord!</span></p>
 </div>
 
 - Karma
