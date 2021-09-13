@@ -16,7 +16,7 @@
     - [Squirrel:](#squirrel)
     - [Wolf:](#wolf)
     - [Wyvern:](#wyvern)
-    - [Void:](#void)
+    - [Void Walker:](#void-walker)
   - [To get back to the main page click this](#to-get-back-to-the-main-page-click-this)
 
 ## **Normal Infected:**
@@ -93,7 +93,13 @@ Damage: 1.35
 
 ### Wyvern:
 
-### Void:
+### Void Walker:
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
