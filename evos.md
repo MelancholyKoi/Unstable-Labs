@@ -1,6 +1,7 @@
 # **Evolutions:**
 
 - [**Evolutions:**](#evolutions)
+  - [**Information:**](#information)
   - [**Pounce:**](#pounce)
   - [**Spit:**](#spit)
   - [**Anger:**](#anger)
@@ -19,6 +20,12 @@
 <font size="5">To get back to the main page click <a href="../Unstable-Labs">this!</a></font>
 
 ---
+
+## **Information:**
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,255,180);">You can see all of the evolutions currently in the game, as well as how many kills are needed and their cooldowns!</span></p>
+</div>
 
 ## **Pounce:**
 
