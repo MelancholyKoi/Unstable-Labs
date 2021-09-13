@@ -1,16 +1,13 @@
 # Shop Locations
 
-## **Human Shops:**
-
 - [Shop Locations](#shop-locations)
-  - [**Human Shops:**](#human-shops)
-    - [Locations](#locations)
-      - [Spawn:](#spawn)
-      - [Tree Room:](#tree-room)
-      - [Mez's Shop:](#mezs-shop)
-      - [Bridge Shop:](#bridge-shop)
-      - [2nd Spawn Shop:](#2nd-spawn-shop)
-      - [Antidote Shop:](#antidote-shop)
+  - [Locations](#locations)
+    - [Spawn:](#spawn)
+    - [Tree Room:](#tree-room)
+    - [Mez's Shop:](#mezs-shop)
+    - [Bridge Shop:](#bridge-shop)
+    - [2nd Spawn Shop:](#2nd-spawn-shop)
+    - [Antidote Shop:](#antidote-shop)
     - [Infected Shop:](#infected-shop)
 
 ---
@@ -19,14 +16,14 @@
 
 ---
 
-### Locations
+## Locations
 
 
 &nbsp;
 
 ---
 
-#### Spawn:
+### Spawn:
 
 ![spawn](https://cdn.discordapp.com/attachments/843929236431831143/886875342999003136/unknown.png)
 
@@ -36,7 +33,7 @@
 
 ---
 
-#### Tree Room:
+### Tree Room:
 
 ![Tree](https://media.discordapp.net/attachments/843929236431831143/886875697715478638/unknown.png?width=919&height=397)
 
@@ -46,7 +43,7 @@
 
 ---
 
-#### Mez's Shop:
+### Mez's Shop:
 
 ![mez](https://cdn.discordapp.com/attachments/843929236431831143/886876157411196928/unknown.png)
 
@@ -56,7 +53,7 @@
 
 ---
 
-#### Bridge Shop:
+### Bridge Shop:
 
 ![zeph](https://cdn.discordapp.com/attachments/843929236431831143/886876569417682954/unknown.png)
 
@@ -66,7 +63,7 @@
 
 ---
 
-#### 2nd Spawn Shop:
+### 2nd Spawn Shop:
 
 ![trash](https://cdn.discordapp.com/attachments/843929236431831143/886876756999540746/unknown.png)
 
@@ -76,7 +73,7 @@
 
 ---
 
-#### Antidote Shop:
+### Antidote Shop:
 
 ![antidote](https://cdn.discordapp.com/attachments/843929236431831143/886877114501066762/unknown.png)
 
