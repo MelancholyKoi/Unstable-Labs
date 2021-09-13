@@ -17,7 +17,7 @@
     - [Wolf:](#wolf)
     - [Wyvern:](#wyvern)
     - [Void:](#void)
-  - [To get back to the main page click](#to-get-back-to-the-main-page-click)
+    - [To get back to the main page click this](#to-get-back-to-the-main-page-click-this)
 
 ## **Normal Infected:**
 
@@ -94,5 +94,4 @@ Damage: 1.35
 ### Void:
 
 
-## To get back to the main page click 
-[this](<index>)
+### To get back to the main page click [this](<index>)
