@@ -296,7 +296,7 @@
 
 ### **Healing Spit:**
 
-![Healing Spit]()
+![Healing Spit](https://cdn.discordapp.com/attachments/175409835557257216/886869781104443412/Healing_Spit.gif)
 
 <div style="font-size:120%;">
   <p><span style="color:rgb(255,255,180);">Spit a puddle in front of you that when touched heals you (poisons any humans that touch it).</span></p>
