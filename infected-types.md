@@ -24,7 +24,7 @@
 
 ### Bee:
 
-<img src="/images/bee.png" width=50% />
+<img src="/images/bee.png" width="50%" />
 
 <img src="images/bee.png" />
 
