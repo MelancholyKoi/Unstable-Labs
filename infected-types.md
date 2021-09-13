@@ -28,6 +28,10 @@
 
 <img src="images/Bee.png">
 
+<div width=50%>
+  <img src="images/Bee.png">
+</div>
+
 ```
 Damage: 1.35
 ```
@@ -101,7 +105,5 @@ Damage: 1.35
 &nbsp;
 
 ---
-
-<font size="5">To get back to the main page click</font> [this](<index>)
 
 <font size="5">To get back to the main page click <a href="../Unstable-Labs">this!</a></font>
