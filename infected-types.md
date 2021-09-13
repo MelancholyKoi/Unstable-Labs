@@ -2,8 +2,8 @@
 
 - [**Infected Types:**](#infected-types)
   - [**Normal Infected:**](#normal-infected)
-    - [Bat:](#bat)
-    - [Bee:](#bee)
+    - [Bat Infected:](#bat-infected)
+    - [Bee Infected:](#bee-infected)
     - [Cat:](#cat)
     - [Deer:](#deer)
     - [Dragon:](#dragon)
@@ -22,9 +22,21 @@
 
 ---
 
-### Bat:
+### Bat Infected:
 
-### Bee:
+<img src="images/Bat.png">
+
+---
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,0,0);">Damage:</span> 1</p>
+  <p><span style="color:rgb(0,255,0);">Health:</span> 1 </p>
+  <p><span style="color:rgb(255,255,0);">Jump:</span> 1.2 </p> 
+  <p><span style="color:rgb(0,255,255);">Speed:</span> 1.05 </p>
+</div>
+
+---
+
+### Bee Infected:
 
 <img src="images/Bee.png">
 
