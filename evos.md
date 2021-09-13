@@ -176,6 +176,8 @@
 
 ## **Leap:**
 
+![leap](https://cdn.discordapp.com/attachments/175409835557257216/886860019331645450/Leap.gif)
+
 <div style="font-size:120%;">
   <p><span style="color:rgb(255,255,180);">Leap far in-front of you and grab any human within range.</span></p>
 </div>
@@ -193,6 +195,8 @@
 ---
 
 ## **Sniper:**
+
+![sniper](https://cdn.discordapp.com/attachments/175409835557257216/886859489507168306/Sniper.gif)
 
 <div style="font-size:120%;">
   <p><span style="color:rgb(255,255,180);">Your spit range has increase massively!</span></p>
@@ -213,7 +217,7 @@
 ## **Burst:**
 
 <div style="font-size:120%;">
-  <p><span style="color:rgb(255,255,180);">Roar and spit 8 puddles around you.</span></p>
+  <p><span style="color:rgb(255,255,180);">Roar and spit 12 puddles around you.</span></p>
 </div>
 
 <div style="font-size:120%;">
