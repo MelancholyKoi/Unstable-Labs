@@ -24,7 +24,7 @@
 
 ### Bee:
 
-<img width=20% src="images/Bee.png">s
+<img src="images/Bee.png">
 
 ```
 Damage: 1.35
