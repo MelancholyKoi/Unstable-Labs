@@ -28,12 +28,13 @@
 
 <img src="images/Bee.png">
 
-<div width=50%>
-  <img src="images/Bee.png">
-</div>
+>The Bee's jump is low because it glides and does not jump.
 
 ```
 Damage: 1.35
+Health: 0.85
+Jump: 0.25
+Speed: 1
 ```
 
 `Linked Customs:`
