@@ -24,7 +24,7 @@
 
 ### Bat Infected:
 
-<img src="https://i.imgur.com/LrofAba.png" width="70%" height="70%">
+<img src="https://i.imgur.com/LrofAba.png" width="65%" height="70%">
 
 ---
 <div style="font-size:120%;">
