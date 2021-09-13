@@ -24,9 +24,7 @@
 
 ### Bee:
 
-<img src="/images/Bee.png" width="50%" />
-
-<img src="images/Bee.png" />
+<img src="images/Bee.png">
 
 `Linked Customs:`
 
