@@ -27,7 +27,15 @@
   <p><span style="color:rgb(255,255,180);">You can see all of the evolutions currently in the game, as well as how many kills are needed and their cooldowns!</span></p>
 </div>
 
+---
+
+&nbsp;
+
+&nbsp;
+
 ## **Pounce:**
+
+![pounce](https://cdn.discordapp.com/attachments/175409835557257216/886853004412719114/Pounce.gif)
 
 <div style="font-size:120%;">
   <p><span style="color:rgb(255,255,180);">Pounce in-front of you and grab any human within range.</span></p>
@@ -48,6 +56,8 @@
 ---
 
 ## **Spit:**
+
+![spit](https://cdn.discordapp.com/attachments/175409835557257216/886853845035126784/spit.gif)
 
 <div style="font-size:120%;">
   <p><span style="color:rgb(255,255,180);">Spit a puddle in-front of you that when touched infects humans.</span></p>
