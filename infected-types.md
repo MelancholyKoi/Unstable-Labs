@@ -23,7 +23,7 @@
 
 <div style="font-size:120%;">
   <p><span style="color:rgb(255,255,180);">You can see all the infected that are currently in game and their stats. Any custom infected you see ingame share stats with the normal infected. So, don't worry the customs do not have an advantage!</p>
-</div>
+</div>  
 
 ## **Normal Infected:**
 
