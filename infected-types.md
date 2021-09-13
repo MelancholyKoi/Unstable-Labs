@@ -38,7 +38,7 @@
 
 ### Bee Infected:
 
-<img src="images/Bee.png">
+<img src="https://i.imgur.com/W5raT0J.png" width="65%" height="70%">
 
 <font size="4"><strong>The Bee is one of the infected that can glide!</strong></font>
 
