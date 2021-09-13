@@ -29,8 +29,6 @@
 
 ## **Pounce:**
 
-![pounce](https://media.discordapp.net/attachments/175409835557257216/886843970708201472/Pounce.gif?width=580&height=860)
-
 <div style="font-size:120%;">
   <p><span style="color:rgb(255,255,180);">Pounce in-front of you and grab any human within range.</span></p>
 </div>
@@ -50,8 +48,6 @@
 ---
 
 ## **Spit:**
-
-![spit](https://cdn.discordapp.com/attachments/175409835557257216/886843271945543730/spit.gif)
 
 <div style="font-size:120%;">
   <p><span style="color:rgb(255,255,180);">Spit a puddle in-front of you that when touched infects humans.</span></p>
