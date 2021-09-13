@@ -98,6 +98,7 @@
 
 ## **Tri-Spit:**
 
+![tri-spit](https://cdn.discordapp.com/attachments/175409835557257216/886856390738579486/Tri-Spit.gif)
 
 <div style="font-size:120%;">
   <p><span style="color:rgb(255,255,180);">You can now spit 3 puddles instead of 1!</span></p>
@@ -117,6 +118,7 @@
 
 ## **Roar:**
 
+![Roar](https://cdn.discordapp.com/attachments/175409835557257216/886855196888678410/Roar.gif)
 
 <div style="font-size:120%;">
   <p><span style="color:rgb(255,255,180);">Roar and knock away any humans in your range (can be used when stunned).</span></p>
@@ -153,6 +155,7 @@
 
 ## **Claw:**
 
+![Claw](https://cdn.discordapp.com/attachments/175409835557257216/886857235605639278/Claw.gif)
 
 <div style="font-size:120%;">
   <p><span style="color:rgb(255,255,180);">Slash your claws and do medium damage (stuns and knocksback).</span></p>
