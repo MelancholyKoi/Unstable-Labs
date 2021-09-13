@@ -5,12 +5,12 @@
 - **Infected Information**
     - [Infected Types](<infected-types>)
     - [Evolutions](<evos>)
-     - [Shop Location](<i-shop>)
+     - [Shop Location](<i-shop>) [unfinished]
 - **Human Information:**
-    - [Shop Locations](<h-shops>)
-    - [Ranged Weapons](<ranged>)
-    - [Melee Weapons](<melee>)
-    - [Mystery Box](<mystery>)
-- **Scrapped Content:**
-- **Comming Soon:**
-- [**Contributors**](<donors>)
+    - [Shop Locations](<h-shops>) [unfinished]
+    - [Ranged Weapons](<ranged>) [unfinished]
+    - [Melee Weapons](<melee>) [unfinished]
+    - [Mystery Box](<mystery>) [unfinished]
+- **Scrapped Content:** [unfinished]
+- **Comming Soon:** [unfinished]
+- [**Contributors**](<donors>) [semi-finished]
