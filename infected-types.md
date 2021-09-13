@@ -24,7 +24,7 @@
 
 ### Bat Infected:
 
-<img src="images/Bat.png">
+<img src="images/Bat.png" width=80%>
 
 ---
 <div style="font-size:120%;">
