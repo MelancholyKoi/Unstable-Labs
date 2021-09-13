@@ -17,7 +17,6 @@
     - [Wolf:](#wolf)
     - [Wyvern:](#wyvern)
     - [Void Walker:](#void-walker)
-  - [To get back to the main page click this](#to-get-back-to-the-main-page-click-this)
 
 ## **Normal Infected:**
 
@@ -103,4 +102,4 @@ Damage: 1.35
 
 ---
 
-## To get back to the main page click [this](<index>)
+<font size="5">To get back to the main page click [this](<index>)</font> 
