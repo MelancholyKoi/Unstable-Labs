@@ -4,7 +4,15 @@
   - [**Pounce:**](#pounce)
   - [**Spit:**](#spit)
   - [**Anger:**](#anger)
+  - [**Tri-Spit:**](#tri-spit)
+  - [**Roar:**](#roar)
+  - [**Erupt:**](#erupt)
+  - [**Claw:**](#claw)
   - [**Leap:**](#leap)
+  - [**Sniper:**](#sniper)
+  - [**Burst:**](#burst)
+  - [**Penta-Spit:**](#penta-spit)
+  - [**Slash:**](#slash)
 
 ---
 
@@ -52,6 +60,8 @@
   <p><span style="color:rgb(0,255,255);">Cooldown:</span> 10 seconds</p>
 </div>
 
+<font size="3">Upgrades into  <a href="https://melancholykoi.github.io/Unstable-Labs/evos#tri-spit">Tri Spit</a></font>
+
 ---
 
 ## **Anger:**
@@ -72,6 +82,82 @@
 
 ---
 
+
+## **Tri-Spit:**
+
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,255,180);">You can now spit 3 puddles instead of 1!</span></p>
+</div>
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,0,0);">Kills Required:</span> 20</p>
+</div>
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(0,255,255);">Cooldown:</span> 10 seconds</p>
+</div>
+
+<font size="3">Upgrades into  <a href="https://melancholykoi.github.io/Unstable-Labs/evos#sniper">Sniper</a></font>
+
+---
+
+## **Roar:**
+
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,255,180);">Roar and knock away any humans in your range (can be used when stunned).</span></p>
+</div>
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,0,0);">Kills Required:</span> 23</p>
+</div>
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(0,255,255);">Cooldown:</span> 30 seconds</p>
+</div>
+
+---
+
+## **Erupt:**
+
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,255,180);">Roar and spit 5 puddles around you that infect humans when touched.</span></p>
+</div>
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,0,0);">Kills Required:</span> 27</p>
+</div>
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(0,255,255);">Cooldown:</span> 12 seconds</p>
+</div>
+
+<font size="3">Upgrades into  <a href="https://melancholykoi.github.io/Unstable-Labs/evos#burst">Burst</a></font>
+
+---
+
+## **Claw:**
+
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,255,180);">Slash your claws and do medium damage (stuns and knocksback).</span></p>
+</div>
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,0,0);">Kills Required:</span> 32</p>
+</div>
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(0,255,255);">Cooldown:</span> 3 seconds</p>
+</div>
+
+<font size="3">Upgrades into  <a href="https://melancholykoi.github.io/Unstable-Labs/evos#slash">Slash</a></font>
+
+---
+
+
 ## **Leap:**
 
 <div style="font-size:120%;">
@@ -86,6 +172,72 @@
 
 <div style="font-size:120%;">
   <p><span style="color:rgb(0,255,255);">Cooldown:</span> 8 seconds</p>
+</div>
+
+---
+
+## **Sniper:**
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,255,180);">Your spit range has increase massively!</span></p>
+</div>
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,0,0);">Kills Required:</span> 41</p>
+</div>
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(0,255,255);">Cooldown:</span> 10 seconds</p>
+</div>
+
+<font size="3">Upgrades into  <a href="https://melancholykoi.github.io/Unstable-Labs/evos#penta-spit">Penta Spit</a></font>
+
+---
+
+## **Burst:**
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,255,180);">Roar and spit 8 puddles around you.</span></p>
+</div>
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,0,0);">Kills Required:</span> 45</p>
+</div>
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(0,255,255);">Cooldown:</span> 12 seconds</p>
+</div>
+
+---
+
+## **Penta-Spit:**
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,255,180);">You can now spit 5 puddles instead of 3!</span></p>
+</div>
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,0,0);">Kills Required:</span> 53</p>
+</div>
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(0,255,255);">Cooldown:</span> 10 seconds</p>
+</div>
+
+---
+
+## **Slash:**
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,255,180);">Slash your claws and do large damage, knocking back humans massively.</span></p>
+</div>
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,0,0);">Kills Required:</span> 60</p>
+</div>
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(0,255,255);">Cooldown:</span> 3 seconds</p>
 </div>
 
 ---
