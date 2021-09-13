@@ -16,9 +16,9 @@
     - [Shark Infected:](#shark-infected)
     - [Sheep Infected:](#sheep-infected)
     - [Squirrel Infected:](#squirrel-infected)
+    - [Void Infected:](#void-infected)
     - [Wolf Infected:](#wolf-infected)
     - [Wyvern Infected:](#wyvern-infected)
-    - [Void Infected:](#void-infected)
 
 ## **Information:**
 
@@ -204,7 +204,7 @@
 
 ### Squirrel Infected:
 
-<img src="" width="65%" height="70%">
+<img src="https://i.imgur.com/qs5IpoH.png" width="65%" height="70%">
 
 ---
 <div style="font-size:120%;">
@@ -216,9 +216,23 @@
 
 ---
 
+### Void Infected:
+
+<img src="https://i.imgur.com/5gDVh5l.png" width="95%" height="70%">
+
+---
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,0,0);">Damage:</span> 1.3</p>
+  <p><span style="color:rgb(0,255,0);">Health:</span> 1 </p>
+  <p><span style="color:rgb(255,255,0);">Jump:</span> 1 </p> 
+  <p><span style="color:rgb(0,255,255);">Speed:</span> 1.08 </p>
+</div>
+
+---
+
 ### Wolf Infected:
 
-<img src="" width="65%" height="70%">
+<img src="https://i.imgur.com/NWinaTN.png" width="65%" height="70%">
 
 ---
 <div style="font-size:120%;">
@@ -232,7 +246,7 @@
 
 ### Wyvern Infected:
 
-<img src="" width="65%" height="70%">
+<img src="https://i.imgur.com/moxs8cJ.png" width="95%" height="70%">
 
 ---
 <div style="font-size:120%;">
@@ -242,19 +256,7 @@
   <p><span style="color:rgb(0,255,255);">Speed:</span> 1.01 </p>
 </div>
 
----
 
-### Void Infected:
-
-<img src="" width="65%" height="70%">
-
----
-<div style="font-size:120%;">
-  <p><span style="color:rgb(255,0,0);">Damage:</span> 1.3</p>
-  <p><span style="color:rgb(0,255,0);">Health:</span> 1 </p>
-  <p><span style="color:rgb(255,255,0);">Jump:</span> 1 </p> 
-  <p><span style="color:rgb(0,255,255);">Speed:</span> 1.08 </p>
-</div>
 
 
 
