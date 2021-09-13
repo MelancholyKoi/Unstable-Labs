@@ -270,7 +270,7 @@
 </div>
 
 <div style="font-size:120%;">
-  <p><span style="color:rgb(0,255,255);">Cooldown:</span> 3 seconds</p>
+  <p><span style="color:rgb(0,255,255);">Cooldown:</span> 10 seconds</p>
 </div>
 
 ---
@@ -290,7 +290,7 @@
 </div>
 
 <div style="font-size:120%;">
-  <p><span style="color:rgb(0,255,255);">Cooldown:</span> 50 seconds</p>
+  <p><span style="color:rgb(0,255,255);">Cooldown:</span> 60 seconds</p>
 </div>
 
 ---
@@ -308,7 +308,7 @@
 </div>
 
 <div style="font-size:120%;">
-  <p><span style="color:rgb(0,255,255);">Cooldown:</span> 10 seconds</p>
+  <p><span style="color:rgb(0,255,255);">Cooldown:</span> 15 seconds</p>
 </div>
 
 ---
