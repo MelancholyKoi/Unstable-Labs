@@ -57,7 +57,7 @@
   <p><span style="color:rgb(0,255,255);">Cooldown:</span> 8 seconds</p>
 </div>
 
-<font size="3">Upgrades into  <a href="https://melancholykoi.github.io/Unstable-Labs/evos#leap">leap</a></font>
+<font size="3">Upgrades into  <a href="https://melancholykoi.github.io/Unstable-Labs/evos#leap">Leap</a></font>
 
 ---
 
@@ -282,7 +282,7 @@
 ![Liquify](https://cdn.discordapp.com/attachments/175409835557257216/886868025909837864/Liquify.gif)
 
 <div style="font-size:120%;">
-  <p><span style="color:rgb(255,255,180);">Roar and infect everyone in a radius of you (decreases your speed by 50%).</span></p>
+  <p><span style="color:rgb(255,255,180);">Roar and infect everyone near you (decreases your speed by 50%).</span></p>
 </div>
 
 <div style="font-size:120%;">
