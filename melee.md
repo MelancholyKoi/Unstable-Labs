@@ -28,6 +28,8 @@
 
 ## **Free Weapons:**
 
+&nbsp;
+
 ### Bat:
 
 <img src="https://media.discordapp.net/attachments/935608630395437176/938974152398897262/Screen_Shot_2022-02-03_at_5.47.39_PM.png" align="left" width="40%">
@@ -43,8 +45,6 @@
 </div>
 
 ---
-
-&nbsp;
 
 &nbsp;
 
@@ -66,12 +66,6 @@
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 ### Steel Beam:
 
 <img src="https://cdn.discordapp.com/attachments/935608630395437176/938974423610957824/Screen_Shot_2022-02-03_at_5.48.49_PM.png" align="left" width="40%">
@@ -87,12 +81,6 @@
 </div>
 
 ---
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 
@@ -114,13 +102,9 @@
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 ## **Bought Weapons:**
+
+&nbsp;
 
 ### Pan:
 
@@ -137,12 +121,6 @@
 </div>
 
 ---
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 
@@ -164,12 +142,6 @@
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 ### Axe:
 
 <img src="https://cdn.discordapp.com/attachments/935608630395437176/938979963300900884/Screen_Shot_2022-02-03_at_5.59.46_PM.png" align="left" width="40%">
@@ -185,12 +157,6 @@
 </div>
 
 ---
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 
@@ -212,12 +178,6 @@
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 ### Pitchfork:
 
 <img src="https://cdn.discordapp.com/attachments/935608630395437176/938979963825160222/Screen_Shot_2022-02-03_at_5.59.55_PM.png" align="left" width="40%">
@@ -233,12 +193,6 @@
 </div>
 
 ---
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 
@@ -260,12 +214,6 @@
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 ### Fire Sword:
 
 <img src="https://cdn.discordapp.com/attachments/935608630395437176/938986001735491634/Screen_Shot_2022-02-03_at_6.34.58_PM.png" align="left" width="40%">
@@ -281,12 +229,6 @@
 </div>
 
 ---
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 
@@ -308,13 +250,9 @@
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 ## **Gamepass Weapons:**
+
+&nbsp;
 
 ### Hammer:
 
@@ -334,12 +272,6 @@
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 ### Rainbow Bat:
 
 <img src="https://cdn.discordapp.com/attachments/935608630395437176/938975282075926568/Screen_Shot_2022-02-03_at_5.52.20_PM.png" align="left" width="40%">
@@ -355,12 +287,6 @@
 </div>
 
 ---
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 
