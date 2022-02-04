@@ -339,7 +339,7 @@
 <img src="https://cdn.discordapp.com/attachments/935608630395437176/938974994992599081/Screen_Shot_2022-02-03_at_5.51.11_PM.png" align="left" width="40%">
 
 <div style="font-size:120%;">
-  <p><span style="color:rgb(255,0,0);">Damage:</span> 15</p>
+  <p><span style="color:rgb(255,0,0);">Damage:</span> 35</p>
   <p><span style="color:rgb(0,255,0);">Durability:</span> 3 </p>
   <p><span style="color:rgb(0,255,255);">Coodlown:</span> 4 Seconds </p>
 </div>
