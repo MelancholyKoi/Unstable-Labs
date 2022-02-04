@@ -10,7 +10,7 @@
     - [Evolutions](<evos>)
 - **Human Info:**
     - [Ranged Weapons](<ranged>) [unfinished]
-    - [Melee Weapons](<melee>) [unfinished]
+    - [Melee Weapons](<melee>)
     - [Mystery Box](<mystery>) [unfinished]
 - **Scrapped Content:** [unfinished]
 - **Comming Soon:** [unfinished]
