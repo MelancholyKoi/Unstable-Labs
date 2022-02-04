@@ -50,8 +50,6 @@
 
 &nbsp;
 
-&nbsp;
-
 ### Wooden Plank:
 
 <img src="https://media.discordapp.net/attachments/935608630395437176/938974415029436486/Screen_Shot_2022-02-03_at_5.48.34_PM.png?width=993&height=825" align="left" width="40%">
