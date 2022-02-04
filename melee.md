@@ -8,6 +8,13 @@
     - [Bottle:](#bottle)
   - [**Bought Weapons:**](#bought-weapons)
     - [Pan:](#pan)
+    - [Katana:](#katana)
+    - [Axe:](#axe)
+    - [Pipe:](#pipe)
+    - [Pitchfork:](#pitchfork)
+    - [Knife:](#knife)
+    - [Fire Sword:](#fire-sword)
+    - [Chaos Blade:](#chaos-blade)
   - [**Gamepass Weapons:**](#gamepass-weapons)
     - [Hammer:](#hammer)
     - [Rainbow Bat:](#rainbow-bat)
@@ -145,6 +152,186 @@
 
 &nbsp;
 
+### Katana:
+
+<img src="https://cdn.discordapp.com/attachments/935608630395437176/938979964076851231/Screen_Shot_2022-02-03_at_5.59.58_PM.png" align="left" width="40%">
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,0,0);">Damage:</span> 20</p>
+  <p><span style="color:rgb(0,255,0);">Durability:</span> 8 </p>
+  <p><span style="color:rgb(0,255,255);">Coodlown:</span> 2.5 Seconds </p>
+</div>
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,255,180);">A low cooldown weapon, with medium damage.</span></p>
+</div>
+
+---
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+### Axe:
+
+<img src="https://cdn.discordapp.com/attachments/935608630395437176/938979963300900884/Screen_Shot_2022-02-03_at_5.59.46_PM.png" align="left" width="40%">
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,0,0);">Damage:</span> 30</p>
+  <p><span style="color:rgb(0,255,0);">Durability:</span> 8 </p>
+  <p><span style="color:rgb(0,255,255);">Coodlown:</span> 4 Seconds </p>
+</div>
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,255,180);">A medium damage weapon, with good durability.</span></p>
+</div>
+
+---
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+### Pipe:
+
+<img src="https://cdn.discordapp.com/attachments/935608630395437176/938979965003759626/Screen_Shot_2022-02-03_at_6.00.11_PM.png" align="left" width="40%">
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,0,0);">Damage:</span> 25-28</p>
+  <p><span style="color:rgb(0,255,0);">Durability:</span> 6 </p>
+  <p><span style="color:rgb(0,255,255);">Coodlown:</span> 4 Seconds </p>
+</div>
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,255,180);">A medium damage weapon, when it breaks it knocks infected away.</span></p>
+</div>
+
+---
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+### Pitchfork:
+
+<img src="https://cdn.discordapp.com/attachments/935608630395437176/938979963825160222/Screen_Shot_2022-02-03_at_5.59.55_PM.png" align="left" width="40%">
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,0,0);">Damage:</span> 15</p>
+  <p><span style="color:rgb(0,255,0);">Durability:</span> 10 </p>
+  <p><span style="color:rgb(0,255,255);">Coodlown:</span> 4 Seconds </p>
+</div>
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,255,180);">A low damage weapon, with extra range and durability.</span></p>
+</div>
+
+---
+
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+### Knife:
+
+<img src="https://cdn.discordapp.com/attachments/935608630395437176/938985112245256232/Screen_Shot_2022-02-03_at_6.31.09_PM.png" align="left" width="40%">
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,0,0);">Damage:</span> 10</p>
+  <p><span style="color:rgb(0,255,0);">Durability:</span> Infinite </p>
+  <p><span style="color:rgb(0,255,255);">Coodlown:</span> 4 Seconds </p>
+</div>
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,255,180);">A very low damage that doesn't break.</span></p>
+</div>
+
+---
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+### Fire Sword:
+
+<img src="https://cdn.discordapp.com/attachments/935608630395437176/938986001735491634/Screen_Shot_2022-02-03_at_6.34.58_PM.png" align="left" width="40%">
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,0,0);">Damage:</span> 10</p>
+  <p><span style="color:rgb(0,255,0);">Durability:</span> 12 </p>
+  <p><span style="color:rgb(0,255,255);">Coodlown:</span> 4 Seconds </p>
+</div>
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,255,180);">A very low damage weapon, that burns the infected a lot.</span></p>
+</div>
+
+---
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+### Chaos Blade:
+
+<img src="https://cdn.discordapp.com/attachments/935608630395437176/938987456705998888/Screen_Shot_2022-02-03_at_6.40.46_PM.png" align="left" width="40%">
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,0,0);">Damage:</span> 40</p>
+  <p><span style="color:rgb(0,255,0);">Durability:</span> 5 </p>
+  <p><span style="color:rgb(0,255,255);">Coodlown:</span> 4 Seconds </p>
+</div>
+
+<div style="font-size:120%;">
+  <p><span style="color:rgb(255,255,180);">A high damage weapon, that burns the infected a lot.</span></p>
+</div>
+
+---
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 ## **Gamepass Weapons:**
 
 ### Hammer:
