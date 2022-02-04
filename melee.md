@@ -150,8 +150,6 @@
 
 &nbsp;
 
-&nbsp;
-
 ### Katana:
 
 <img src="https://cdn.discordapp.com/attachments/935608630395437176/938979964076851231/Screen_Shot_2022-02-03_at_5.59.58_PM.png" align="left" width="40%">
@@ -167,8 +165,6 @@
 </div>
 
 ---
-
-&nbsp;
 
 &nbsp;
 
@@ -202,8 +198,6 @@
 
 &nbsp;
 
-&nbsp;
-
 ### Pipe:
 
 <img src="https://cdn.discordapp.com/attachments/935608630395437176/938979965003759626/Screen_Shot_2022-02-03_at_6.00.11_PM.png" align="left" width="40%">
@@ -228,8 +222,6 @@
 
 &nbsp;
 
-&nbsp;
-
 ### Pitchfork:
 
 <img src="https://cdn.discordapp.com/attachments/935608630395437176/938979963825160222/Screen_Shot_2022-02-03_at_5.59.55_PM.png" align="left" width="40%">
@@ -245,7 +237,6 @@
 </div>
 
 ---
-
 
 &nbsp;
 
@@ -279,8 +270,6 @@
 
 &nbsp;
 
-&nbsp;
-
 ### Fire Sword:
 
 <img src="https://cdn.discordapp.com/attachments/935608630395437176/938986001735491634/Screen_Shot_2022-02-03_at_6.34.58_PM.png" align="left" width="40%">
@@ -296,8 +285,6 @@
 </div>
 
 ---
-
-&nbsp;
 
 &nbsp;
 
@@ -331,7 +318,6 @@
 
 &nbsp;
 
-&nbsp;
 ## **Gamepass Weapons:**
 
 ### Hammer:
