@@ -45,13 +45,17 @@
   <p><span style="color:rgb(255,255,180);">They make sure the moderators are doing their job and help around in the discord!</span></p>
 </div>
 
+- Pixer
+
 - Karma
 
 - Fairy
 
 - Zups
 
-- Zeph
+- Tori
+
+- Rockhart
 
 ---
 
@@ -63,9 +67,9 @@
   <p><span style="color:rgb(255,255,180);">They keep exploiters in check and keep the toxic ones out! If you see one thank them!</span></p>
 </div>
 
-- Pixer
+- Axie
 
-- Takara
+- Zarpy
 
 - Cookie
 
@@ -82,8 +86,6 @@
 </div>
 
 - Lemon
-
-- Luca
 
 - Heart
 
@@ -107,11 +109,11 @@
   <p><span style="color:rgb(255,255,180);">Without these people you wouldn't see any new infected or features!</span></p>
 </div>
 
-- Blueberry
+- Berry
   
-- Hatori
+- Contraband
 
-- Zarpy
+- D3Pr0
 
 - Mike
 
@@ -160,6 +162,8 @@
 - Luca [Developer]
 
 - Quinn [Admin]
+
+- Takara [Moderator]
 
 ---
 
